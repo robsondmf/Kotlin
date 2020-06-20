@@ -7,10 +7,12 @@ fun main() {
     mostrarNum2(num2)
 }
 
+//método para mostar numero1
 fun mostrarNum(num1: Int) {
         println(num1)
 }
 
+//método para mostar numero2
 fun mostrarNum2(num2: Int) {
         println(num2)
 }
