@@ -9,6 +9,7 @@ fun main() {
     mostrarNum2(num2)
     mostarNum3(num3)
     mostrarNum4(num4)
+    soma(num1, num2)
 }
 
 fun mostrarNum4(num4: Int) {
@@ -37,4 +38,9 @@ fun mostraNome(nome: String): String {
 
     return nome1
     //    println( "O nome informando foi :${nome}")
+}
+
+
+fun soma(num1: Int,num2: Int) {
+    println(num1+num2)
 }
