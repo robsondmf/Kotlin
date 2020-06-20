@@ -2,9 +2,16 @@ fun main() {
     println(mostraNome("Robson"))
     val num1 =10
     val num2 = 20
+    val num3 = 30
 
     mostrarNum(num1)
     mostrarNum2(num2)
+    mostarNum3(num3)
+}
+
+fun mostarNum3(num3: Int) {
+    println(num3)
+
 }
 
 //método para mostar numero1
