@@ -1,12 +1,18 @@
 fun main() {
     println(mostraNome("Robson"))
     val num1 =10
+    val num2 = 20
 
     mostrarNum(num1)
+    mostrarNum2(num2)
 }
 
 fun mostrarNum(num1: Int) {
         println(num1)
+}
+
+fun mostrarNum2(num2: Int) {
+        println(num2)
 }
 
 fun mostraNome(nome: String): String {
