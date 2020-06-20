@@ -40,7 +40,7 @@ fun mostraNome(nome: String): String {
     //    println( "O nome informando foi :${nome}")
 }
 
-
+//método soma
 fun soma(num1: Int, num2: Int, num3:Int) {
     println(num1 + num2+num3)
 }
