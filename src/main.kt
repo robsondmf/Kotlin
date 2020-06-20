@@ -9,6 +9,7 @@ fun main() {
     mostarNum3(num3)
 }
 
+//método 3
 fun mostarNum3(num3: Int) {
     println(num3)
 
