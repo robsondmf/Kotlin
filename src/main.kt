@@ -3,10 +3,16 @@ fun main() {
     val num1 =10
     val num2 = 20
     val num3 = 30
-
+    val num4 = 40
+    
     mostrarNum(num1)
     mostrarNum2(num2)
     mostarNum3(num3)
+    mostrarNum4(num4)
+}
+
+fun mostrarNum4(num4: Int) {
+    println(num4)
 }
 
 //método 3
