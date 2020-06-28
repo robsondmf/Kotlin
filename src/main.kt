@@ -23,17 +23,17 @@ fun mostarNum3(num3: Int) {
 
 }
 
-//método para mostar numero1
+//método para mostar numero1.   
 fun mostrarNum(num1: Int) {
     println(num1)
 }
 
-//método para mostar numero2
+//método para mostar numero2.
 fun mostrarNum2(num2: Int) {
     println(num2)
 }
 
-//Função para mostrar o nome
+//Função para mostrar o nome.
 fun mostraNome(nome: String): String {
 
     val nome1 = nome
