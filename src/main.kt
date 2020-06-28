@@ -12,6 +12,7 @@ fun main() {
     soma(num1, num2,num3)
 }
 
+//método 4
 fun mostrarNum4(num4: Int) {
     println(num4)
 }
